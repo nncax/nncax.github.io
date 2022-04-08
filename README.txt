@@ -1,6 +1,6 @@
 Welcome to My Domain
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Nica's Safe Space
+
 
 
 This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
